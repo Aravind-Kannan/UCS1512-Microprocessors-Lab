@@ -1,0 +1,4 @@
+masm/
+
+*.obj
+*.exe
