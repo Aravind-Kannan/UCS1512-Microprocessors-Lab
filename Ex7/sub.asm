@@ -22,6 +22,7 @@ start:  mov ax, data
         sub bl, al
         inc bl
         mov al, bl
+        daa
 
 term:   mov diff, al
 
