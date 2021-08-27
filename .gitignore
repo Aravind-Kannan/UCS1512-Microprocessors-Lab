@@ -1,6 +1,13 @@
+# masm sys files
 masm/
-
 *.obj
 *.exe
 *.dsk
 *.err
+
+# Notes
+*.txt
+
+# Draft
+*.docx
+[A-Z]*.pdf
